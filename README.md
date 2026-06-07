@@ -30,7 +30,7 @@ Predict student performance using attendance and academic records.
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/aditya-kumar
+- LinkedIn: https://www.linkedin.com/in/aditya-kumar-30a185324/
 - Email: adityasing9508@gmail.com
 
 ---
