@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Kumar
 
-<!--
-**adityasingh9508-bot/adityasingh9508-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at NIMS University
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Machine Learning, and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Java
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+- Web Development
+
+## 🚀 Projects
+
+### Student Performance Prediction
+Predict student performance using attendance and academic records.
+
+**Tech Stack:** Python, Pandas, Scikit-Learn, Machine Learning
+
+## 🛠️ Skills
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Machine Learning
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/aditya-kumar
+- Email: adityasing9508@gmail.com
+
+---
+⭐ Always learning and building new things!
