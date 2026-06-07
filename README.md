@@ -11,12 +11,6 @@
 - Machine Learning
 - Web Development
 
-## 🚀 Projects
-
-### Student Performance Prediction
-Predict student performance using attendance and academic records.
-
-**Tech Stack:** Python, Pandas, Scikit-Learn, Machine Learning
 
 ## 🛠️ Skills
 
